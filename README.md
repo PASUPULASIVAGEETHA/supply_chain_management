@@ -77,9 +77,12 @@ Environment: Jupyter Notebook
   git clone https://github.com/yourusername/Supply-Chain-Management-Analysis.git
   cd Supply-Chain-Management-Analysis
 
- Install dependencies: pip install -r requirements.txt
+- **Install dependencies:**
+  ```bash
+  pip install -r requirements.txt
 
- Run the notebook: jupyter notebook Supply_Chain_Management_Analysis.ipynb
+- **Run the notebook:**
+ jupyter notebook Supply_Chain_Management_Analysis.ipynb
 
 # ✅ Results
 
