@@ -1,4 +1,9 @@
 # 📦 Supply Chain Management Analysis
+
+## Tableau Dashboard
+You can view the interactive Tableau dashboard here:  
+👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/pasupula.siva.geetha/viz/supply_chain_17558648034010/Dashboard1)
+
 # 📌 Project Overview
 
 This project focuses on analyzing supply chain operations to uncover insights into inventory, shipping, demand, and order fulfillment efficiency. The objective is to optimize supply chain processes, reduce delays, and identify key factors that impact logistics performance.
